@@ -8,3 +8,7 @@
 I am Director of **[4TU.ResearchData](https://data.4tu.nl)** — a research infrastructure, community and training provider supporting FAIR data and software, based in The Netherlands.
 
 👉 Explore our work on GitHub at [**@4TUResearchData**](https://github.com/4TUResearchData/)!
+
+🦋 Recent Bluesky posts
+ 
+![Recent Bluesky posts](./metrics.plugin.rss.svg)
