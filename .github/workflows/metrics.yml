@@ -1,0 +1,29 @@
+name: Metrics (Bluesky feed)
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # every day at 06:00 UTC
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Bluesky panel
+        uses: lowlighter/metrics@latest
+        with:
+          # A classic Personal Access Token stored as a repo secret (see setup notes).
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: danielbangert
+          filename: metrics.plugin.rss.svg
+          # Show only the RSS panel, not the default commit/language base.
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://bsky.app/profile/danielbangert.bsky.social/rss
+          plugin_rss_limit: 4
+          committer_message: "chore: update Bluesky metrics panel"
