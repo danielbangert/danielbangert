@@ -10,5 +10,7 @@ I am Director of **[4TU.ResearchData](https://data.4tu.nl)** — a research infr
 👉 Explore our work on GitHub at [**@4TUResearchData**](https://github.com/4TUResearchData/)!
 
 🦋 Recent Bluesky posts
- 
-![Recent Bluesky posts](./metrics.plugin.rss.svg)
+
+<!-- BLUESKY-POSTS:START -->
+<!-- Updated automatically from Bluesky — do not edit by hand. -->
+<!-- BLUESKY-POSTS:END -->
