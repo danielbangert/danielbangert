@@ -12,6 +12,10 @@ I am Director of **[4TU.ResearchData](https://data.4tu.nl)** — a research infr
 🦋 Recent Bluesky posts
 
 <!-- BLUESKY-POSTS:START -->
+> 📢 Vacancy closing soon! @4turesearchdata.bsky.social is looking for a Software Engineer to contribute to two projects funded by @opensciencenl.bsky.social that advance reproducibility and transparency of research software and ML/AI models. Apply by 6 September: careers.tudelft.nl/job/Delft-So...
+>
+> 01 Sep 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3muhqgkdbu22d)
+
 > 📢 We're hiring! @4turesearchdata.bsky.social is looking for a Software Engineer to contribute to two projects funded by @opensciencenl.bsky.social that advance reproducibility and transparency of research software and ML/AI models. Read more and apply here: careers.tudelft.nl/job/Delft-So...
 >
 > 06 Aug 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3msflvngz6s2g)
@@ -23,8 +27,4 @@ I am Director of **[4TU.ResearchData](https://data.4tu.nl)** — a research infr
 > community.data.4tu.nl/2026/05/08/j...
 >
 > 10 May 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3mljb7h4fis2u)
-
-> In our Spotlight on Skills, we share how @4turesearchdata.bsky.social  strengthens the digital skills and capacity of researchers and data professionals: community.data.4tu.nl/2026/04/17/s...
->
-> 22 Apr 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3mk3sorjvsk2t)
 <!-- BLUESKY-POSTS:END -->
