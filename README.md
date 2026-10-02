@@ -12,19 +12,15 @@ I am Director of **[4TU.ResearchData](https://data.4tu.nl)** — a research infr
 🦋 Recent Bluesky posts
 
 <!-- BLUESKY-POSTS:START -->
+> Starting 28 October, join our @4turesearchdata.bsky.social team on the last Wednesday of the month to hear what's new in Djehuty! Djehuty is our open source repository platform and this will be a space to discuss upcoming work and help shape where the project goes next: djehuty.4tu.nl/community/
+>
+> 01 Oct 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3mwtpjdvv5s2y)
+
+> What do you look for in a data repository? Our Community and Partnership Manager @4turesearchdata.bsky.social, Maura Cassidy Burke, has published a short report reflecting on what we need from repositories and why it matters: doi.org/10.5281/zeno...
+>
+> 01 Oct 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3mwtpa42xqs2v)
+
 > 📢 Vacancy closing soon! @4turesearchdata.bsky.social is looking for a Software Engineer to contribute to two projects funded by @opensciencenl.bsky.social that advance reproducibility and transparency of research software and ML/AI models. Apply by 6 September: careers.tudelft.nl/job/Delft-So...
 >
 > 01 Sep 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3muhqgkdbu22d)
-
-> 📢 We're hiring! @4turesearchdata.bsky.social is looking for a Software Engineer to contribute to two projects funded by @opensciencenl.bsky.social that advance reproducibility and transparency of research software and ML/AI models. Read more and apply here: careers.tudelft.nl/job/Delft-So...
->
-> 06 Aug 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3msflvngz6s2g)
-
-> 📢 We're hiring! Join our team at @4turesearchdata.bsky.social to help make research more accessible, reusable, and impactful for science and society. We have two vacancies open:
-> 👉 Data Curator 
-> 👉 Community and Partnerships Manager 
-> Apply by 1 June 2026!
-> community.data.4tu.nl/2026/05/08/j...
->
-> 10 May 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3mljb7h4fis2u)
 <!-- BLUESKY-POSTS:END -->
