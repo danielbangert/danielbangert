@@ -12,15 +12,15 @@ I am Director of **[4TU.ResearchData](https://data.4tu.nl)** — a research infr
 🦋 Recent Bluesky posts
 
 <!-- BLUESKY-POSTS:START -->
+> Join our upcoming @4turesearchdata.bsky.social Community Day on 9 December in Utrecht to share, learn and connect! This year’s programme includes a keynote by @lakens.bsky.social and Cristian Mesquida Caldentey, workshops, posters and more: community.data.4tu.nl/2026/10/09/4...
+>
+> 17 Nov 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3n2k3nv5kgs2c)
+
+> Our next Djehuty community hour is on 25 November! Join to discuss and help shape our open source repository platform with our team and other users and contributors: djehuty.4tu.nl/community/
+>
+> 17 Nov 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3n2k33dn6lc2c)
+
 > Starting 28 October, join our @4turesearchdata.bsky.social team on the last Wednesday of the month to hear what's new in Djehuty! Djehuty is our open source repository platform and this will be a space to discuss upcoming work and help shape where the project goes next: djehuty.4tu.nl/community/
 >
 > 01 Oct 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3mwtpjdvv5s2y)
-
-> What do you look for in a data repository? Our Community and Partnership Manager @4turesearchdata.bsky.social, Maura Cassidy Burke, has published a short report reflecting on what we need from repositories and why it matters: doi.org/10.5281/zeno...
->
-> 01 Oct 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3mwtpa42xqs2v)
-
-> 📢 Vacancy closing soon! @4turesearchdata.bsky.social is looking for a Software Engineer to contribute to two projects funded by @opensciencenl.bsky.social that advance reproducibility and transparency of research software and ML/AI models. Apply by 6 September: careers.tudelft.nl/job/Delft-So...
->
-> 01 Sep 2026 · [View on Bluesky](https://bsky.app/profile/danielbangert.bsky.social/post/3muhqgkdbu22d)
 <!-- BLUESKY-POSTS:END -->
